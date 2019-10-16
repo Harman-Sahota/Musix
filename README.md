@@ -1,2 +1,4 @@
 # Musix
-Musix Website - watch songs on youtube(youtubr punjabi songs database)
+Musix Website - watch songs on youtube(youtube punjabi songs database)
+
+
